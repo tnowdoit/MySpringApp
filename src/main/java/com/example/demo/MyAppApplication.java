@@ -15,7 +15,7 @@ public class MyAppApplication {
 	
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello, Spring Boot";
+		return "Hello, Spring Boot2";
 	}
 
 }
